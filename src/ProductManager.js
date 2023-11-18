@@ -1,4 +1,3 @@
-import e from "express";
 import fs from "fs"
 
 //Se crea la clase ProductManager
